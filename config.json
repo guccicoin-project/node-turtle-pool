@@ -14,6 +14,11 @@
       "colors": true
     }
   },
+  "softshell": {
+     "memory": 262144,
+     "window": 2048,
+     "multiplier": 3
+   },
   "poolServer": {
     "enabled": true,
     "clusterForks": "auto",
