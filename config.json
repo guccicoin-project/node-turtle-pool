@@ -17,7 +17,8 @@
   "softshell": {
      "memory": 262144,
      "window": 2048,
-     "multiplier": 3
+     "multiplier": 3,
+     "variant": 1
    },
   "poolServer": {
     "enabled": true,
